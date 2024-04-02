@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'font1';
+    src: url('/public/assets/fonts/65274471f1a58fe9565b9ca9_60ae8e384c11e54fd6986f3b_ABCGintoNormal-Bold.woff');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'font2';
+    src: url('/public/assets/fonts/652737c319ba7da75394c4cb_ggsans-Medium.woff2');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'font3';
+    src: url('/public/assets/FONTS/652737c30510e4ad4333a424_ggsans-Bold.woff2');
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'font4';
+    src: url('/public/assets/FONTS/652737c319ba7da75394c4dc_ggsans-Semibold.woff2');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'font5';
+    src: url('/PUBLIC/ASSETS/FONTS/65273da62cbf8363b445b021_abcgintonord-800-extrabold.woff2');
+    font-weight: 800;
+}
